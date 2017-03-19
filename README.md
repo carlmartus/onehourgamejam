@@ -1,5 +1,6 @@
 # One Hour Game Jam
 Entriy to [One hour game jam](http://onehourgamejam.com/).
+[Profile link](http://onehourgamejam.com/?page=author&author=carlmartus).
 
 ## #99 (Wind) - "Tornado surfer"
 ![Tornado surfer](99/logo.png)
@@ -10,4 +11,6 @@ of the debries flying around in there. The longer you last in there, the more
 score you get.
 
 CONTROLS: Left/Right - Steer
+
+### [Source code](99/)
 
