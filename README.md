@@ -12,5 +12,6 @@ score you get.
 
 CONTROLS: Left/Right - Steer
 
-### [Source code](99/)
+ * [Play in browser](http://martus.se/onehourgamejam/99/wind.html)
+ * [Source code](99/)
 
